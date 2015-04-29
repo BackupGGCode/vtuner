@@ -1,4 +1,4 @@
-#vtuner
+#Vtuner
 ## Latest news ##
   * **2013-04-18:** KERNEL DRIVER: RELEASE\_1.4
 Optimized internal memory handling.
